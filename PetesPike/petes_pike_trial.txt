@@ -1,0 +1,5 @@
+Move the orange goat down to (2, 2)
+Move the orange goat left to (2, 1)
+Move the blue goat down to (1, 1)
+Move the green goat left to (2, 1)
+Move pete up to (2, 2), and then you win the game.
