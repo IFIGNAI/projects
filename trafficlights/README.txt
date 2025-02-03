@@ -1,1 +1,1 @@
-Пример работы с мультипоточностью.
+An example of working with multithreading.
