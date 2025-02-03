@@ -1,1 +1,1 @@
-Игра козы и альпинист созданная на javafx.
+Goats and climber game created on javafx.
