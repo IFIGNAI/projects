@@ -1,1 +1,1 @@
-Это небольшой проект по созданию клиента и сервера для общения проще говоря чат работающий через duplexer.
+This is a small project to create a client and server for communication, in other words, a chat that works through duplexer.
